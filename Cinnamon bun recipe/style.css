@@ -1,0 +1,41 @@
+body {
+    border: 2px solid black;
+    margin: 0;
+    width: 600px;
+    margin: auto;
+    padding: 25px 15px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+
+h1 {
+    color: sandybrown;
+
+}
+
+h2 {
+    color: lightcoral;
+    text-decoration: underline;
+}
+
+li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1,h2 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    color: rgb(20, 50, 218);
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+html {
+    background-color: wheat;
+}
